@@ -1,4 +1,4 @@
-# steelseries
+# Steelseries
 
 A simple wrapper for the SteelSeries GameSense API in Python.
 
@@ -8,7 +8,7 @@ A simple wrapper for the SteelSeries GameSense API in Python.
 - Send live event data (0–100) to control RGB devices
 - Built-in auto-sanitization of names
 
-## install
+## Install
 
 ```bash
 pip install steelseries
